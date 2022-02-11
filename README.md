@@ -72,6 +72,6 @@
 
 ### 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=irvd4a80l4m2v7k2gy3fct4j5&cover_image=true&theme=novatorem&bar_color=ff3c74&bar_color_cover=false)]
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=irvd4a80l4m2v7k2gy3fct4j5&cover_image=true&theme=novatorem&bar_color=ff3c74&bar_color_cover=false)
 
 ---
