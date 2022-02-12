@@ -1,8 +1,3 @@
-```console
-0xTux@github:~$ ./welcome.sh
-```
-
-
 <p align="center">
    <a href="https://www.facebook.com/0xtux" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=ff3c74"></a>
     <a href="https://steamcommunity.com/id/0xtux" target="_blank"><img src="https://img.shields.io/badge/-Steam-0D1117?style=for-the-badge&logo=steam&logoColor=ff3c74"></a>
@@ -11,6 +6,11 @@
    <a href="mailto:0xTux@pm.me" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ff3c74"></a>
 </p>
 
+---
+
+```console
+0xTux@github:~$ ./welcome.sh
+```
 
 ### 🛠 &nbsp;Tech Stack
 
