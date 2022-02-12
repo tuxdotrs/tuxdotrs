@@ -5,9 +5,10 @@
 
 <p align="center">
    <a href="https://www.facebook.com/0xtux" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=ff3c74"></a>
+    <a href="https://steamcommunity.com/id/0xtux" target="_blank"><img src="https://img.shields.io/badge/-Steam-0D1117?style=for-the-badge&logo=steam&logoColor=ff3c74"></a>
    <a href="https://www.reddit.com/user/0xtux" target="_blank"><img src="https://img.shields.io/badge/-Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=ff3c74"></a>
-    <a href="https://discord.gg/jwGRprex4C" target="_blank"><img src="https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=discord&logoColor=ff3c74"></a>
-  <a href="mailto:0xTux@pm.me" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ff3c74"></a>
+   <a href="https://discord.gg/jwGRprex4C" target="_blank"><img src="https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=discord&logoColor=ff3c74"></a>
+   <a href="mailto:0xTux@pm.me" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ff3c74"></a>
 </p>
 
 
