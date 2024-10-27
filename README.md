@@ -9,7 +9,7 @@
 ---
 
 ```console
-0xTux@github:~$ ./welcome.sh
+tux@github:~$ ./welcome.sh
 ```
 
 ---
