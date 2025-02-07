@@ -2,7 +2,7 @@
 tux@github:~$ ./welcome.sh
 ```
 
-### Hi there 👋
+### 👋 Hi, I'm tux 
 I’m an independent programmer from India, fueled by open-source, automation, and building tools that click. I spend my days taming terminals and nights fragging in FPS matches. When I’m not coding, you’ll find me exploring new places with my camera or chasing golden-hour light.
 
 My zen? A perfectly tuned ```flake.nix```, the rhythmic clack of a mechanical keyboard, and freezing life’s fleeting moments into frames. Let’s chat about Linux sorcery, crypto bot builds, or FPS tactics!
@@ -28,9 +28,9 @@ My zen? A perfectly tuned ```flake.nix```, the rhythmic clack of a mechanical ke
 
 - [tuxdotrs/nix-secrets](https://github.com/tuxdotrs/nix-secrets) - Build time secrets for my nix config
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation.
-- [tuxdotrs/nvim-tutorial](https://github.com/tuxdotrs/nvim-tutorial) - 
 - [tuxdotrs/stars](https://github.com/tuxdotrs/stars) - A curated list of my GitHub stars!
 - [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake.
+- [tuxdotrs/demo](https://github.com/tuxdotrs/demo) - Some random stuff.
 
 #### ⭐ Recent Stars
 
@@ -48,4 +48,4 @@ My zen? A perfectly tuned ```flake.nix```, the rhythmic clack of a mechanical ke
 
 #### 🎧 Spotify Playing
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=irvd4a80l4m2v7k2gy3fct4j5&cover_image=true&theme=novatorem&bar_color=ff3c74&bar_color_cover=false)r_color=ff3c74&bar_color_cover=false)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=irvd4a80l4m2v7k2gy3fct4j5&cover_image=true&theme=novatorem&bar_color=ff3c74&bar_color_cover=false)
