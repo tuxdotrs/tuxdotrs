@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the rhythmic clack of a mechanical ke
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake. (1 day ago)
+- [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake. (today)
 - [tuxdotrs/nix-secrets](https://github.com/tuxdotrs/nix-secrets) - Build time secrets for my nix config (1 week ago)
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation. (3 months ago)
 - [NvChad/starter](https://github.com/NvChad/starter) - Starter config for NvChad (4 months ago)
