@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the rhythmic clack of a mechanical ke
 
 #### ⭐ Recent Stars
 
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) (today) - peer-2-peer that just works
-- [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) (5 days ago) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) (1 day ago) - peer-2-peer that just works
+- [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) (6 days ago) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) (2 weeks ago) - Collection of handy online tools for developers, with great UX. 
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) (2 weeks ago) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) (3 weeks ago) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI
