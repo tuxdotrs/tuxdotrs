@@ -30,15 +30,15 @@ My zen? A perfectly tuned ```flake.nix```, the rhythmic clack of a mechanical ke
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation.
 - [tuxdotrs/stars](https://github.com/tuxdotrs/stars) - A curated list of my GitHub stars!
 - [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake.
-- [tuxdotrs/demo](https://github.com/tuxdotrs/demo) - Some random stuff.
+- [tuxdotrs/dotfiles](https://github.com/tuxdotrs/dotfiles) - Collection of personalized configuration files.
 
 #### ⭐ Recent Stars
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (today) - LLM inference in C/C&#43;&#43;
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) (2 days ago) - peer-2-peer that just works
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) (1 week ago) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) (2 weeks ago) - Collection of handy online tools for developers, with great UX. 
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) (2 weeks ago) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) (3 weeks ago) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
