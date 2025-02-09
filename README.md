@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the rhythmic clack of a mechanical ke
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake. (today)
+- [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake. (1 day ago)
 - [tuxdotrs/nix-secrets](https://github.com/tuxdotrs/nix-secrets) - Build time secrets for my nix config (1 week ago)
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation. (3 months ago)
 - [NvChad/starter](https://github.com/NvChad/starter) - Starter config for NvChad (4 months ago)
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the rhythmic clack of a mechanical ke
 
 #### ⭐ Recent Stars
 
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) (1 day ago) - peer-2-peer that just works
-- [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) (6 days ago) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) (2 days ago) - peer-2-peer that just works
+- [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) (1 week ago) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) (2 weeks ago) - Collection of handy online tools for developers, with great UX. 
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) (2 weeks ago) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) (3 weeks ago) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI
