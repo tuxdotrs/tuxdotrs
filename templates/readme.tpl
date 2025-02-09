@@ -5,7 +5,7 @@ tux@github:~$ ./welcome.sh
 ### 👋 Hi, I'm tux 
 I’m an independent programmer from India, fueled by open-source, automation, and building tools that click. I spend my days taming terminals and nights fragging in FPS matches. When I’m not coding, you’ll find me exploring new places with my camera or chasing golden-hour light.
 
-My zen? A perfectly tuned ```flake.nix```, the rhythmic clack of a mechanical keyboard, and freezing life’s fleeting moments into frames. Let’s chat about Linux sorcery, crypto bot builds, or FPS tactics!
+My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, and freezing life’s fleeting moments into frames. Let’s chat about Linux sorcery, crypto bots, or FPS tactics!
 
 ### 📧 You can reach me at
 
