@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [panjf2000/gnet](https://github.com/panjf2000/gnet) (today) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (2 days ago) - LLM inference in C/C&#43;&#43;
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) (4 days ago) - peer-2-peer that just works
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) (1 week ago) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) (2 weeks ago) - Collection of handy online tools for developers, with great UX. 
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) (3 weeks ago) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
