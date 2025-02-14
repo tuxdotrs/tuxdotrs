@@ -19,18 +19,17 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake. (1 day ago)
-- [tuxdotrs/nix-secrets](https://github.com/tuxdotrs/nix-secrets) - Build time secrets for my nix config (2 weeks ago)
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation. (3 months ago)
 - [NvChad/starter](https://github.com/NvChad/starter) - Starter config for NvChad (4 months ago)
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices! (6 months ago)
 
 #### 🌱 My latest projects
 
-- [tuxdotrs/nix-secrets](https://github.com/tuxdotrs/nix-secrets) - Build time secrets for my nix config
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation.
 - [tuxdotrs/stars](https://github.com/tuxdotrs/stars) - A curated list of my GitHub stars!
 - [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake.
 - [tuxdotrs/dotfiles](https://github.com/tuxdotrs/dotfiles) - Collection of personalized configuration files.
+- [tuxdotrs/tuxOS](https://github.com/tuxdotrs/tuxOS) - tuxOS build files based on arch ISO
 
 #### ⭐ Recent Stars
 
