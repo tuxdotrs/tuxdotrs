@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake. (today)
+- [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake. (1 day ago)
 - [tuxdotrs/nix-secrets](https://github.com/tuxdotrs/nix-secrets) - Build time secrets for my nix config (2 weeks ago)
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation. (3 months ago)
 - [NvChad/starter](https://github.com/NvChad/starter) - Starter config for NvChad (4 months ago)
@@ -34,9 +34,9 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [panjf2000/gnet](https://github.com/panjf2000/gnet) (2 days ago) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (4 days ago) - LLM inference in C/C&#43;&#43;
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) (6 days ago) - peer-2-peer that just works
+- [panjf2000/gnet](https://github.com/panjf2000/gnet) (3 days ago) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (5 days ago) - LLM inference in C/C&#43;&#43;
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) (1 week ago) - peer-2-peer that just works
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) (1 week ago) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) (3 weeks ago) - Collection of handy online tools for developers, with great UX. 
 
