@@ -36,7 +36,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) (1 day ago) - A Rust library for the Discord API.
 - [serenity-rs/poise](https://github.com/serenity-rs/poise) (1 day ago) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) (4 days ago) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) (6 days ago) - LLM inference in C/C&#43;&#43;
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) (6 days ago) - LLM inference in C/C&#43;&#43;
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) (1 week ago) - peer-2-peer that just works
 
 <div>
