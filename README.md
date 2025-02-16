@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake. (today)
+- [tuxdotrs/nixos-config](https://github.com/tuxdotrs/nixos-config) - My entire infrastructure as a Nix flake. (1 day ago)
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation. (3 months ago)
 - [NvChad/starter](https://github.com/NvChad/starter) - Starter config for NvChad (4 months ago)
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices! (6 months ago)
@@ -33,10 +33,10 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [serenity-rs/serenity](https://github.com/serenity-rs/serenity) (1 day ago) - A Rust library for the Discord API.
-- [serenity-rs/poise](https://github.com/serenity-rs/poise) (1 day ago) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
-- [panjf2000/gnet](https://github.com/panjf2000/gnet) (4 days ago) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
-- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) (6 days ago) - LLM inference in C/C&#43;&#43;
+- [serenity-rs/serenity](https://github.com/serenity-rs/serenity) (2 days ago) - A Rust library for the Discord API.
+- [serenity-rs/poise](https://github.com/serenity-rs/poise) (2 days ago) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
+- [panjf2000/gnet](https://github.com/panjf2000/gnet) (5 days ago) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) (1 week ago) - LLM inference in C/C&#43;&#43;
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) (1 week ago) - peer-2-peer that just works
 
 <div>
