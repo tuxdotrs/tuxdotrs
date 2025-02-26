@@ -33,7 +33,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [clap-rs/clap](https://github.com/clap-rs/clap) (4 days ago) - A full featured, fast Command Line Argument Parser for Rust
+- [clap-rs/clap](https://github.com/clap-rs/clap) (5 days ago) - A full featured, fast Command Line Argument Parser for Rust
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) (1 week ago) - A Rust library for the Discord API.
 - [serenity-rs/poise](https://github.com/serenity-rs/poise) (1 week ago) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) (2 weeks ago) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
