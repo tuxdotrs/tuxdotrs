@@ -19,15 +19,15 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (today)
-- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - tux&#39;s awesomeWM configuration (today)
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - tux&#39;s nvim configuration (today)
+- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - my awesomeWM configuration (today)
+- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - my nvim configuration (today)
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation. (3 months ago)
 - [NvChad/starter](https://github.com/NvChad/starter) - Starter config for NvChad (4 months ago)
 
 #### 🌱 My latest projects
 
-- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - tux&#39;s awesomeWM configuration
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - tux&#39;s nvim configuration
+- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - my awesomeWM configuration
+- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - my nvim configuration
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation.
 - [tuxdotrs/stars](https://github.com/tuxdotrs/stars) - A curated list of my GitHub stars!
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake.
