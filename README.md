@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (1 day ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (2 days ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 week ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (1 week ago)
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation. (4 months ago)
@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [dstotijn/hetty](https://github.com/dstotijn/hetty) (5 days ago) - An HTTP toolkit for security research.
+- [dstotijn/hetty](https://github.com/dstotijn/hetty) (6 days ago) - An HTTP toolkit for security research.
 - [clap-rs/clap](https://github.com/clap-rs/clap) (2 weeks ago) - A full featured, fast Command Line Argument Parser for Rust
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) (3 weeks ago) - A Rust library for the Discord API.
 - [serenity-rs/poise](https://github.com/serenity-rs/poise) (3 weeks ago) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
