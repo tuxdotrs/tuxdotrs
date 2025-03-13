@@ -19,8 +19,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (5 days ago)
-- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (1 week ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 week ago)
+- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (1 week ago)
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation. (4 months ago)
 - [NvChad/starter](https://github.com/NvChad/starter) - Starter config for NvChad (5 months ago)
 
