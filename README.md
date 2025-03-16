@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (3 days ago) - Staging repo for development of native port of TypeScript
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (4 days ago) - Staging repo for development of native port of TypeScript
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) (1 week ago) - An HTTP toolkit for security research.
 - [clap-rs/clap](https://github.com/clap-rs/clap) (3 weeks ago) - A full featured, fast Command Line Argument Parser for Rust
-- [serenity-rs/serenity](https://github.com/serenity-rs/serenity) (4 weeks ago) - A Rust library for the Discord API.
-- [serenity-rs/poise](https://github.com/serenity-rs/poise) (4 weeks ago) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
+- [serenity-rs/serenity](https://github.com/serenity-rs/serenity) (1 month ago) - A Rust library for the Discord API.
+- [serenity-rs/poise](https://github.com/serenity-rs/poise) (1 month ago) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
