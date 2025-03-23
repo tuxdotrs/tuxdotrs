@@ -34,10 +34,10 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) (3 days ago) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) (4 days ago) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (1 week ago) - Staging repo for development of native port of TypeScript
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) (2 weeks ago) - An HTTP toolkit for security research.
-- [clap-rs/clap](https://github.com/clap-rs/clap) (4 weeks ago) - A full featured, fast Command Line Argument Parser for Rust
+- [clap-rs/clap](https://github.com/clap-rs/clap) (1 month ago) - A full featured, fast Command Line Argument Parser for Rust
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) (1 month ago) - A Rust library for the Discord API.
 
 <div>
