@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (today)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (1 day ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (3 weeks ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (3 weeks ago)
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation. (4 months ago)
@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) (4 days ago) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) (5 days ago) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (1 week ago) - Staging repo for development of native port of TypeScript
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) (2 weeks ago) - An HTTP toolkit for security research.
 - [clap-rs/clap](https://github.com/clap-rs/clap) (1 month ago) - A full featured, fast Command Line Argument Parser for Rust
