@@ -35,7 +35,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### ⭐ Recent Stars
 
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) (1 week ago) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
-- [Checkmk/checkmk](https://github.com/Checkmk/checkmk) (2 weeks ago) - Checkmk - Best-in-class infrastructure &amp; application monitoring
+- [Checkmk/checkmk](https://github.com/Checkmk/checkmk) (3 weeks ago) - Checkmk - Best-in-class infrastructure &amp; application monitoring
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) (1 month ago) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (1 month ago) - Staging repo for development of native port of TypeScript
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) (1 month ago) - An HTTP toolkit for security research.
