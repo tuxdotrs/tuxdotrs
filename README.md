@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [nari-labs/dia](https://github.com/nari-labs/dia) (today) - A TTS model capable of generating ultra-realistic dialogue in one pass.
+- [nari-labs/dia](https://github.com/nari-labs/dia) (1 day ago) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) (1 week ago) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) (3 weeks ago) - Checkmk - Best-in-class infrastructure &amp; application monitoring
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) (1 month ago) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
