@@ -34,10 +34,10 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [lima-vm/lima](https://github.com/lima-vm/lima) (5 days ago) - Linux virtual machines, with a focus on running containers
+- [lima-vm/lima](https://github.com/lima-vm/lima) (6 days ago) - Linux virtual machines, with a focus on running containers
 - [nari-labs/dia](https://github.com/nari-labs/dia) (1 week ago) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) (2 weeks ago) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
-- [Checkmk/checkmk](https://github.com/Checkmk/checkmk) (4 weeks ago) - Checkmk - Best-in-class infrastructure &amp; application monitoring
+- [Checkmk/checkmk](https://github.com/Checkmk/checkmk) (1 month ago) - Checkmk - Best-in-class infrastructure &amp; application monitoring
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) (1 month ago) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 
 <div>
