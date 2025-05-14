@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (3 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (4 days ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 month ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (2 months ago)
 - [tuxdotrs/diagrams](https://github.com/tuxdotrs/diagrams) - Diagrams for project workflows, architecture designs, and process documentation. (6 months ago)
@@ -35,7 +35,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### ⭐ Recent Stars
 
 - [lima-vm/lima](https://github.com/lima-vm/lima) (2 weeks ago) - Linux virtual machines, with a focus on running containers
-- [nari-labs/dia](https://github.com/nari-labs/dia) (2 weeks ago) - A TTS model capable of generating ultra-realistic dialogue in one pass.
+- [nari-labs/dia](https://github.com/nari-labs/dia) (3 weeks ago) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) (1 month ago) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) (1 month ago) - Checkmk - Best-in-class infrastructure &amp; application monitoring
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) (1 month ago) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
