@@ -38,7 +38,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 - [nari-labs/dia](https://github.com/nari-labs/dia) (3 weeks ago) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) (1 month ago) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) (1 month ago) - Checkmk - Best-in-class infrastructure &amp; application monitoring
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) (1 month ago) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) (2 months ago) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
