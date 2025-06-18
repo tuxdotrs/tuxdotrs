@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) (today) - Rust bindings of GTK 4
 - [lima-vm/lima](https://github.com/lima-vm/lima) (1 month ago) - Linux virtual machines, with a focus on running containers
 - [nari-labs/dia](https://github.com/nari-labs/dia) (1 month ago) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) (2 months ago) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) (2 months ago) - Checkmk - Best-in-class infrastructure &amp; application monitoring
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) (3 months ago) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
