@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) (today) - Build production-ready applications in TypeScript
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (4 days ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) (2 weeks ago) - Rust bindings of GTK 4
 - [lima-vm/lima](https://github.com/lima-vm/lima) (2 months ago) - Linux virtual machines, with a focus on running containers
 - [nari-labs/dia](https://github.com/nari-labs/dia) (2 months ago) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [telekom-security/tpotce](https://github.com/telekom-security/tpotce) (2 months ago) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
