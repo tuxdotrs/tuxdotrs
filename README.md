@@ -18,11 +18,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (today)
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (today)
-- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (today)
-- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (today)
-- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (today)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (1 day ago)
+- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 day ago)
+- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (1 day ago)
+- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (1 day ago)
+- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) (today) - SSL Certificate Management System (API &#43; UI)
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) (3 days ago) - Build production-ready applications in TypeScript
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) (1 day ago) - SSL Certificate Management System (API &#43; UI)
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) (4 days ago) - Build production-ready applications in TypeScript
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (1 week ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) (2 weeks ago) - Rust bindings of GTK 4
 - [lima-vm/lima](https://github.com/lima-vm/lima) (2 months ago) - Linux virtual machines, with a focus on running containers
