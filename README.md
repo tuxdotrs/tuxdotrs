@@ -18,8 +18,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (today)
 - [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings (2 days ago)
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (4 days ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (4 days ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (4 days ago)
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (4 days ago)
