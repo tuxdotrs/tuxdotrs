@@ -19,10 +19,10 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (today)
-- [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings (2 days ago)
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (4 days ago)
-- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (4 days ago)
-- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (4 days ago)
+- [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings (3 days ago)
+- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (5 days ago)
+- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (5 days ago)
+- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) (4 days ago) - SSL Certificate Management System (API &#43; UI)
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) (5 days ago) - SSL Certificate Management System (API &#43; UI)
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) (1 week ago) - Build production-ready applications in TypeScript
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (1 week ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) (3 weeks ago) - Rust bindings of GTK 4
