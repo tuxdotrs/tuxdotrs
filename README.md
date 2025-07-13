@@ -18,10 +18,10 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (today)
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces). (today)
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (2 days ago)
-- [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings (5 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (1 day ago)
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces). (1 day ago)
+- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (3 days ago)
+- [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings (6 days ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (1 week ago)
 
 #### 🌱 My latest projects
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) (1 day ago) - A program for managing systemd services through a TUI (Terminal User Interfaces).
-- [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) (1 day ago) - A fast, simple TUI for interacting with systemd services and their logs
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) (2 days ago) - A program for managing systemd services through a TUI (Terminal User Interfaces).
+- [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) (2 days ago) - A fast, simple TUI for interacting with systemd services and their logs
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) (1 week ago) - SSL Certificate Management System (API &#43; UI)
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) (1 week ago) - Build production-ready applications in TypeScript
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (2 weeks ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
