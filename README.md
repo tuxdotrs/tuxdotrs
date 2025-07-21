@@ -21,7 +21,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (1 week ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces). (1 week ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 week ago)
-- [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings (1 week ago)
+- [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings (2 weeks ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (2 weeks ago)
 
 #### 🌱 My latest projects
