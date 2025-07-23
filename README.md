@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (today) - a flake module to ease creating and managing multiple hosts in your nix flake.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) (1 week ago) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) (1 week ago) - A fast, simple TUI for interacting with systemd services and their logs
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) (2 weeks ago) - SSL Certificate Management System (API &#43; UI)
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) (3 weeks ago) - Build production-ready applications in TypeScript
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (3 weeks ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
