@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (today)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (1 day ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces). (2 weeks ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (2 weeks ago)
 - [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings (3 weeks ago)
@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (6 days ago) - a flake module to ease creating and managing multiple hosts in your nix flake.
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (1 week ago) - a flake module to ease creating and managing multiple hosts in your nix flake.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) (2 weeks ago) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) (2 weeks ago) - A fast, simple TUI for interacting with systemd services and their logs
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) (3 weeks ago) - SSL Certificate Management System (API &#43; UI)
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) (3 weeks ago) - Build production-ready applications in TypeScript
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) (4 weeks ago) - Build production-ready applications in TypeScript
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
