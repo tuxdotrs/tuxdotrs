@@ -18,11 +18,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (5 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (6 days ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces). (3 weeks ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (3 weeks ago)
-- [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings (3 weeks ago)
-- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (4 weeks ago)
+- [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings (4 weeks ago)
+- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (4 days ago) - ⚡ Modern fullstack web framework based on Rust and React
+- [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (5 days ago) - ⚡ Modern fullstack web framework based on Rust and React
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (1 week ago) - a flake module to ease creating and managing multiple hosts in your nix flake.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) (3 weeks ago) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) (3 weeks ago) - A fast, simple TUI for interacting with systemd services and their logs
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) (4 weeks ago) - SSL Certificate Management System (API &#43; UI)
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) (1 month ago) - SSL Certificate Management System (API &#43; UI)
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
