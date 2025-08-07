@@ -20,7 +20,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (1 week ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces). (3 weeks ago)
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (3 weeks ago)
+- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (4 weeks ago)
 - [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings (1 month ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (1 month ago)
 
@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [aome510/spotify-player](https://github.com/aome510/spotify-player) (today) - A Spotify player in the terminal with full feature parity
+- [aome510/spotify-player](https://github.com/aome510/spotify-player) (1 day ago) - A Spotify player in the terminal with full feature parity
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (1 week ago) - ⚡ Modern fullstack web framework based on Rust and React
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (2 weeks ago) - a flake module to ease creating and managing multiple hosts in your nix flake.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) (3 weeks ago) - A program for managing systemd services through a TUI (Terminal User Interfaces).
