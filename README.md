@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (6 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (1 week ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 week ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (1 week ago)
 - [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (1 month ago)
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [elysiajs/elysia](https://github.com/elysiajs/elysia) (3 weeks ago) - Ergonomic Framework for Humans
-- [9001/copyparty](https://github.com/9001/copyparty) (4 weeks ago) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) (4 weeks ago) - Ergonomic Framework for Humans
+- [9001/copyparty](https://github.com/9001/copyparty) (1 month ago) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) (1 month ago) - A Spotify player in the terminal with full feature parity
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (1 month ago) - ⚡ Modern fullstack web framework based on Rust and React
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (1 month ago) - a flake module to ease creating and managing multiple hosts in your nix flake.
