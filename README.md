@@ -18,8 +18,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (2 days ago)
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (2 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (3 days ago)
+- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (3 days ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (2 weeks ago)
 - [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (1 month ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces). (2 months ago)
@@ -38,7 +38,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 - [9001/copyparty](https://github.com/9001/copyparty) (1 month ago) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) (1 month ago) - A Spotify player in the terminal with full feature parity
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) (1 month ago) - ⚡ Modern fullstack web framework based on Rust and React
-- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (1 month ago) - a flake module to ease creating and managing multiple hosts in your nix flake.
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (2 months ago) - a flake module to ease creating and managing multiple hosts in your nix flake.
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
