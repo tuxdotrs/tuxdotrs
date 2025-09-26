@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [Aylur/ags](https://github.com/Aylur/ags) (1 day ago) - Scaffolding CLI for Astal&#43;Gnim
+- [Aylur/ags](https://github.com/Aylur/ags) (2 days ago) - Scaffolding CLI for Astal&#43;Gnim
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) (1 month ago) - Ergonomic Framework for Humans
 - [9001/copyparty](https://github.com/9001/copyparty) (1 month ago) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) (1 month ago) - A Spotify player in the terminal with full feature parity
