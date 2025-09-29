@@ -18,8 +18,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (today)
-- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (today)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (1 day ago)
+- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (1 day ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 week ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (3 weeks ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces). (2 months ago)
@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [Aylur/ags](https://github.com/Aylur/ags) (4 days ago) - Scaffolding CLI for Astal&#43;Gnim
+- [Aylur/ags](https://github.com/Aylur/ags) (5 days ago) - Scaffolding CLI for Astal&#43;Gnim
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) (1 month ago) - Ergonomic Framework for Humans
 - [9001/copyparty](https://github.com/9001/copyparty) (1 month ago) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) (1 month ago) - A Spotify player in the terminal with full feature parity
