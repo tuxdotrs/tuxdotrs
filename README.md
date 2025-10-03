@@ -18,10 +18,10 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (today)
-- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (4 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure as a Nix flake. (1 day ago)
+- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (5 days ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (2 weeks ago)
-- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (4 weeks ago)
+- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (1 month ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces). (2 months ago)
 
 #### 🌱 My latest projects
