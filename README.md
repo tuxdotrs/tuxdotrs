@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [mobile-shell/mosh](https://github.com/mobile-shell/mosh) (today) - Mobile Shell
+- [browsh-org/browsh](https://github.com/browsh-org/browsh) (today) - A fully-modern text-based browser, rendering to TTY and browsers
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) (today) - 🌿 It&#39;s Hacker News in your terminal
+- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) (today) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) (today) - Accessing your local service should be simple
-- [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) (today) - Undetectable AI that helps you with meetings
-- [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) (today) - My awesomeWM configuration
-- [tuxdotrs/tuxOS](https://github.com/tuxdotrs/tuxOS) (today) - tuxOS build files based on arch ISO
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) (today) - My nvim configuration
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
