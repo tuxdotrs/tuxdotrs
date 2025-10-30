@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (today)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (1 day ago)
 - [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (2 weeks ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (3 weeks ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (1 month ago)
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) (2 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (2 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [zed-industries/zed](https://github.com/zed-industries/zed) (3 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (3 days ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) (2 weeks ago) - Mobile Shell
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) (2 weeks ago) - A fully-modern text-based browser, rendering to TTY and browsers
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) (2 weeks ago) - 🌿 It&#39;s Hacker News in your terminal
