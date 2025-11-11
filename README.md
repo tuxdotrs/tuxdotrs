@@ -18,8 +18,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (6 days ago)
-- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (4 weeks ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (1 week ago)
+- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (1 month ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 month ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (2 months ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces). (4 months ago)
@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (today) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (1 day ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (1 week ago) - A focused launcher for your desktop — native, fast, extensible
 - [zed-industries/zed](https://github.com/zed-industries/zed) (2 weeks ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (2 weeks ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
