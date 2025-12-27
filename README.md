@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) (today) - A markdown terminal slideshow tool
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (1 month ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (1 month ago) - A focused launcher for your desktop — native, fast, extensible
 - [zed-industries/zed](https://github.com/zed-industries/zed) (2 months ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (2 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [mobile-shell/mosh](https://github.com/mobile-shell/mosh) (2 months ago) - Mobile Shell
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
