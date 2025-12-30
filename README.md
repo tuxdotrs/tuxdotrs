@@ -18,8 +18,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (today)
-- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (today)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (1 day ago)
+- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (1 day ago)
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (2 weeks ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (2 months ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (3 months ago)
@@ -34,9 +34,9 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) (2 days ago) - A markdown terminal slideshow tool
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) (3 days ago) - A markdown terminal slideshow tool
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (1 month ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (1 month ago) - A focused launcher for your desktop — native, fast, extensible
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (2 months ago) - A focused launcher for your desktop — native, fast, extensible
 - [zed-industries/zed](https://github.com/zed-industries/zed) (2 months ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (2 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
