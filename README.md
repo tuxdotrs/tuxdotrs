@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (3 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (4 days ago)
 - [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (2 weeks ago)
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (1 month ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (3 months ago)
@@ -37,8 +37,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) (4 weeks ago) - A markdown terminal slideshow tool
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (2 months ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (2 months ago) - A focused launcher for your desktop — native, fast, extensible
-- [zed-industries/zed](https://github.com/zed-industries/zed) (2 months ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (2 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [zed-industries/zed](https://github.com/zed-industries/zed) (3 months ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) (3 months ago) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
