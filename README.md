@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [railwayapp/railpack](https://github.com/railwayapp/railpack) (today) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [surge-downloader/surge](https://github.com/surge-downloader/surge) (2 days ago) - Blazing fast TUI download manager built in Go for power users
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) (1 month ago) - A markdown terminal slideshow tool
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (3 months ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (3 months ago) - A focused launcher for your desktop — native, fast, extensible
-- [zed-industries/zed](https://github.com/zed-industries/zed) (3 months ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
