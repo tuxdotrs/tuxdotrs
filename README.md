@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [surge-downloader/surge](https://github.com/surge-downloader/surge) (2 days ago) - Surge is a blazing fast, open-source terminal (TUI) download manager built in Go.
+- [surge-downloader/surge](https://github.com/surge-downloader/surge) (2 days ago) - Blazing fast TUI download manager built in Go for power users
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) (1 month ago) - A markdown terminal slideshow tool
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (3 months ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (3 months ago) - A focused launcher for your desktop — native, fast, extensible
