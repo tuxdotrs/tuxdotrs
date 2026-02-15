@@ -35,7 +35,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### ⭐ Recent Stars
 
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) (2 days ago) - Zero-config application builder that automatically analyzes and turns your code into an image
-- [surge-downloader/surge](https://github.com/surge-downloader/surge) (4 days ago) - Blazing fast TUI download manager built in Go for power users
+- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) (4 days ago) - Blazing fast TUI download manager built in Go for power users
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) (1 month ago) - A markdown terminal slideshow tool
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) (3 months ago) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) (3 months ago) - A focused launcher for your desktop — native, fast, extensible
