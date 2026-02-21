@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [iced-rs/iced](https://github.com/iced-rs/iced) (today) - A cross-platform GUI library for Rust, inspired by Elm
 - [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) (1 day ago) - wayland compositor base wlroots and scenefx(dwm but wayland)
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (3 days ago) - The open-source voice synthesis studio powered by Qwen3-TTS.
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) (1 week ago) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) (1 week ago) - Blazing fast TUI download manager built in Go for power users
-- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) (1 month ago) - A markdown terminal slideshow tool
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
