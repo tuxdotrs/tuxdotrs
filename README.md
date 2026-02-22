@@ -18,9 +18,9 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (2 days ago)
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (3 days ago)
-- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (4 days ago)
+- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (3 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (4 days ago)
+- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (5 days ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (2 weeks ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (5 months ago)
 
@@ -34,9 +34,9 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [iced-rs/iced](https://github.com/iced-rs/iced) (today) - A cross-platform GUI library for Rust, inspired by Elm
-- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) (1 day ago) - wayland compositor base wlroots and scenefx(dwm but wayland)
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (3 days ago) - The open-source voice synthesis studio powered by Qwen3-TTS.
+- [iced-rs/iced](https://github.com/iced-rs/iced) (1 day ago) - A cross-platform GUI library for Rust, inspired by Elm
+- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) (2 days ago) - wayland compositor base wlroots and scenefx(dwm but wayland)
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (4 days ago) - The open-source voice synthesis studio powered by Qwen3-TTS.
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) (1 week ago) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) (1 week ago) - Blazing fast TUI download manager built in Go for power users
 
