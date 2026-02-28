@@ -19,8 +19,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (today)
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 day ago)
-- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (3 days ago)
+- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (2 days ago)
+- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (4 days ago)
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (1 week ago)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration (5 months ago)
 
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [jtroo/kanata](https://github.com/jtroo/kanata) (5 days ago) - Improve keyboard comfort and usability with advanced customization
-- [iced-rs/iced](https://github.com/iced-rs/iced) (6 days ago) - A cross-platform GUI library for Rust, inspired by Elm
+- [jtroo/kanata](https://github.com/jtroo/kanata) (6 days ago) - Improve keyboard comfort and usability with advanced customization
+- [iced-rs/iced](https://github.com/iced-rs/iced) (1 week ago) - A cross-platform GUI library for Rust, inspired by Elm
 - [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) (1 week ago) - Practical and Powerful wayland compositor (dwm but wayland)
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (1 week ago) - The open-source voice synthesis studio powered by Qwen3-TTS.
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) (2 weeks ago) - Zero-config application builder that automatically analyzes and turns your code into an image
