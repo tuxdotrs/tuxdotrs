@@ -37,7 +37,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 - [jtroo/kanata](https://github.com/jtroo/kanata) (2 weeks ago) - Improve keyboard comfort and usability with advanced customization
 - [iced-rs/iced](https://github.com/iced-rs/iced) (2 weeks ago) - A cross-platform GUI library for Rust, inspired by Elm
 - [mangowm/mango](https://github.com/mangowm/mango) (2 weeks ago) - Practical and Powerful wayland compositor (dwm but wayland)
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (2 weeks ago) - The open-source voice synthesis studio powered by Qwen3-TTS.
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (3 weeks ago) - The open-source voice synthesis studio powered by Qwen3-TTS.
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) (3 weeks ago) - Zero-config application builder that automatically analyzes and turns your code into an image
 
 <div>
