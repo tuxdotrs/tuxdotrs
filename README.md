@@ -19,7 +19,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (Quickshell) (1 week ago)
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (1 week ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (2 weeks ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (2 weeks ago)
 - [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (AGS) (2 weeks ago)
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (3 weeks ago)
@@ -35,7 +35,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### ⭐ Recent Stars
 
 - [jtroo/kanata](https://github.com/jtroo/kanata) (2 weeks ago) - Improve keyboard comfort and usability with advanced customization
-- [iced-rs/iced](https://github.com/iced-rs/iced) (2 weeks ago) - A cross-platform GUI library for Rust, inspired by Elm
+- [iced-rs/iced](https://github.com/iced-rs/iced) (3 weeks ago) - A cross-platform GUI library for Rust, inspired by Elm
 - [mangowm/mango](https://github.com/mangowm/mango) (3 weeks ago) - Practical and Powerful wayland compositor (dwm but wayland)
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (3 weeks ago) - The open-source voice synthesis studio powered by Qwen3-TTS.
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) (4 weeks ago) - Zero-config application builder that automatically analyzes and turns your code into an image
