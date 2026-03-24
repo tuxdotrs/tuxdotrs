@@ -18,10 +18,10 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (Quickshell) (2 weeks ago)
+- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (Quickshell) (3 weeks ago)
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (3 weeks ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (3 weeks ago)
-- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (AGS) (3 weeks ago)
+- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (AGS) (4 weeks ago)
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (1 month ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [jtroo/kanata](https://github.com/jtroo/kanata) (4 weeks ago) - Improve keyboard comfort and usability with advanced customization
+- [jtroo/kanata](https://github.com/jtroo/kanata) (1 month ago) - Improve keyboard comfort and usability with advanced customization
 - [iced-rs/iced](https://github.com/iced-rs/iced) (1 month ago) - A cross-platform GUI library for Rust, inspired by Elm
 - [mangowm/mango](https://github.com/mangowm/mango) (1 month ago) - Practical and Powerful wayland compositor (dwm but wayland)
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (1 month ago) - The open-source voice synthesis studio
