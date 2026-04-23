@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (1 day ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (2 days ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (Quickshell) (1 month ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 month ago)
 - [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (AGS) (1 month ago)
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [reactiveui/refit](https://github.com/reactiveui/refit) (2 days ago) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square&#39;s Retrofit library, Refit turns your REST API into a live interface.
-- [jtroo/kanata](https://github.com/jtroo/kanata) (1 month ago) - Improve keyboard comfort and usability with advanced customization
+- [reactiveui/refit](https://github.com/reactiveui/refit) (3 days ago) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square&#39;s Retrofit library, Refit turns your REST API into a live interface.
+- [jtroo/kanata](https://github.com/jtroo/kanata) (2 months ago) - Improve keyboard comfort and usability with advanced customization
 - [iced-rs/iced](https://github.com/iced-rs/iced) (2 months ago) - A cross-platform GUI library for Rust, inspired by Elm
 - [mangowm/mango](https://github.com/mangowm/mango) (2 months ago) - Practical and Powerful wayland compositor (dwm but wayland)
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (2 months ago) - The open-source voice synthesis studio
