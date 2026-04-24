@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [zhom/donutbrowser](https://github.com/zhom/donutbrowser) (today) - Simple Yet Powerful Anti-Detect Browser 🍩
 - [reactiveui/refit](https://github.com/reactiveui/refit) (4 days ago) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square&#39;s Retrofit library, Refit turns your REST API into a live interface.
 - [jtroo/kanata](https://github.com/jtroo/kanata) (2 months ago) - Improve keyboard comfort and usability with advanced customization
 - [iced-rs/iced](https://github.com/iced-rs/iced) (2 months ago) - A cross-platform GUI library for Rust, inspired by Elm
 - [mangowm/mango](https://github.com/mangowm/mango) (2 months ago) - Practical and Powerful wayland compositor (dwm but wayland)
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (2 months ago) - The open-source AI voice studio. Clone, dictate, create.
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
