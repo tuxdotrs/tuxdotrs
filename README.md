@@ -36,7 +36,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) (3 weeks ago) - The open source coding agent.
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) (3 weeks ago) - Simple Yet Powerful Anti-Detect Browser 🍩
-- [reactiveui/refit](https://github.com/reactiveui/refit) (3 weeks ago) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square&#39;s Retrofit library, Refit turns your REST API into a live interface.
+- [reactiveui/refit](https://github.com/reactiveui/refit) (4 weeks ago) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square&#39;s Retrofit library, Refit turns your REST API into a live interface.
 - [jtroo/kanata](https://github.com/jtroo/kanata) (2 months ago) - Improve keyboard comfort and usability with advanced customization
 - [iced-rs/iced](https://github.com/iced-rs/iced) (2 months ago) - A cross-platform GUI library for Rust, inspired by Elm
 
