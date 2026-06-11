@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (1 day ago) - agent multiplexer that lives in your terminal.
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (2 days ago) - agent multiplexer that lives in your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 month ago) - The open source coding agent.
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) (1 month ago) - Simple Yet Powerful Anti-Detect Browser 🍩
 - [reactiveui/refit](https://github.com/reactiveui/refit) (1 month ago) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square&#39;s Retrofit library, Refit turns your REST API into a live interface.
