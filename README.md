@@ -22,7 +22,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (Quickshell) (3 months ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (3 months ago)
 - [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (AGS) (3 months ago)
-- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (3 months ago)
+- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,7 +37,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (1 week ago) - agent multiplexer that lives in your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 month ago) - The open source coding agent.
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) (1 month ago) - Simple Yet Powerful Anti-Detect Browser 🍩
-- [reactiveui/refit](https://github.com/reactiveui/refit) (1 month ago) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square&#39;s Retrofit library, Refit turns your REST API into a live interface.
+- [reactiveui/refit](https://github.com/reactiveui/refit) (2 months ago) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square&#39;s Retrofit library, Refit turns your REST API into a live interface.
 - [jtroo/kanata](https://github.com/jtroo/kanata) (3 months ago) - Improve keyboard comfort and usability with advanced customization
 
 <div>
