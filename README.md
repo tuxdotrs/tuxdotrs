@@ -35,7 +35,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### ⭐ Recent Stars
 
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (2 weeks ago) - agent multiplexer that lives in your terminal.
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 month ago) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) (2 months ago) - The open source coding agent.
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) (2 months ago) - Simple Yet Powerful Anti-Detect Browser 🍩
 - [reactiveui/refit](https://github.com/reactiveui/refit) (2 months ago) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square&#39;s Retrofit library, Refit turns your REST API into a live interface.
 - [jtroo/kanata](https://github.com/jtroo/kanata) (4 months ago) - Improve keyboard comfort and usability with advanced customization
