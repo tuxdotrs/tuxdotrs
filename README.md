@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) (1 day ago) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
+- [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) (2 days ago) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (1 month ago) - agent multiplexer that lives in your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) (2 months ago) - The open source coding agent.
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) (2 months ago) - Simple Yet Powerful Anti-Detect Browser 🍩
