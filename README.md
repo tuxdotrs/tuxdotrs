@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) (today) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
 - [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) (3 days ago) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (1 month ago) - agent multiplexer that lives in your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) (2 months ago) - The open source coding agent.
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) (2 months ago) - Simple Yet Powerful Anti-Detect Browser 🍩
-- [reactiveui/refit](https://github.com/reactiveui/refit) (2 months ago) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square&#39;s Retrofit library, Refit turns your REST API into a live interface.
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
