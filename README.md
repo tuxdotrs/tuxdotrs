@@ -26,11 +26,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### 🌱 My latest projects
 
+- [tuxdotrs/android_kernel_motorola_sm7325](https://github.com/tuxdotrs/android_kernel_motorola_sm7325) - 
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (Quickshell)
 - [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings
 - [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (AGS)
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration
 
 #### ⭐ Recent Stars
 
