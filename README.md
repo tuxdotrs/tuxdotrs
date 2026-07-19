@@ -22,7 +22,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (Quickshell) (4 months ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (4 months ago)
 - [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (AGS) (4 months ago)
-- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (4 months ago)
+- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) (1 day ago) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
-- [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) (4 days ago) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
+- [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) (2 days ago) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
+- [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) (5 days ago) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) (1 month ago) - agent multiplexer that lives in your terminal.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) (2 months ago) - The open source coding agent.
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) (2 months ago) - Simple Yet Powerful Anti-Detect Browser 🍩
