@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/android_kernel_motorola_sm7325](https://github.com/tuxdotrs/android_kernel_motorola_sm7325) -  (3 days ago)
+- [tuxdotrs/android_kernel_motorola_sm7325](https://github.com/tuxdotrs/android_kernel_motorola_sm7325) -  (today)
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (2 months ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (Quickshell) (4 months ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (4 months ago)
