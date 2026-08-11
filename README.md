@@ -36,7 +36,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 - [autobrr/netronome](https://github.com/autobrr/netronome) (1 week ago) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) (3 weeks ago) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
-- [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) (3 weeks ago) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
+- [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) (4 weeks ago) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) (2 months ago) - the runtime your coding agents live on
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) (3 months ago) - The open source coding agent.
 
