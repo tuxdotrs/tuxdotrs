@@ -20,7 +20,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 - [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (AGS) (2 weeks ago)
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty (2 weeks ago)
-- [tuxdotrs/android_kernel_motorola_sm7325](https://github.com/tuxdotrs/android_kernel_motorola_sm7325) - KernelSU-Next &#43; DroidSpaces Kernel for Motorola Edge 30 (LineageOS &amp; AOSP ROMs). (2 weeks ago)
+- [tuxdotrs/android_kernel_motorola_sm7325](https://github.com/tuxdotrs/android_kernel_motorola_sm7325) - KernelSU-Next &#43; DroidSpaces Kernel for Motorola Edge 30 (LineageOS &amp; AOSP ROMs). (3 weeks ago)
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (3 months ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (Quickshell) (5 months ago)
 
@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [autobrr/netronome](https://github.com/autobrr/netronome) (1 week ago) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
+- [autobrr/netronome](https://github.com/autobrr/netronome) (2 weeks ago) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) (3 weeks ago) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
 - [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) (4 weeks ago) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) (2 months ago) - the runtime your coding agents live on
