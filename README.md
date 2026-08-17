@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (3 days ago) - Voice-to-text with push-to-talk for Wayland compositors
+- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (4 days ago) - Voice-to-text with push-to-talk for Wayland compositors
 - [autobrr/netronome](https://github.com/autobrr/netronome) (2 weeks ago) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) (1 month ago) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
 - [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) (1 month ago) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
