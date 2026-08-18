@@ -34,11 +34,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) (today) - Any version of any nixpkgs package, from one flake input
 - [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (5 days ago) - Voice-to-text with push-to-talk for Wayland compositors
 - [autobrr/netronome](https://github.com/autobrr/netronome) (2 weeks ago) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) (1 month ago) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
 - [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) (1 month ago) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) (2 months ago) - the runtime your coding agents live on
 
 <div>
     <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
