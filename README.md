@@ -18,19 +18,19 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (Quickshell) (today)
-- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (AGS) (2 days ago)
+- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (today)
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty (1 month ago)
 - [tuxdotrs/android_kernel_motorola_sm7325](https://github.com/tuxdotrs/android_kernel_motorola_sm7325) - KernelSU-Next &#43; DroidSpaces Kernel for Motorola Edge 30 (LineageOS &amp; AOSP ROMs). (1 month ago)
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (3 months ago)
+- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (5 months ago)
 
 #### 🌱 My latest projects
 
 - [tuxdotrs/android_kernel_motorola_sm7325](https://github.com/tuxdotrs/android_kernel_motorola_sm7325) - KernelSU-Next &#43; DroidSpaces Kernel for Motorola Edge 30 (LineageOS &amp; AOSP ROMs).
-- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (Quickshell)
 - [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings
-- [tuxdotrs/tpanel](https://github.com/tuxdotrs/tpanel) - My widgets for wayland (AGS)
+- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland
 - [tuxdotrs/tawm](https://github.com/tuxdotrs/tawm) - My awesomeWM configuration
+- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration
 
 #### ⭐ Recent Stars
 
