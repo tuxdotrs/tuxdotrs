@@ -36,7 +36,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 - [OpenGamingCollective/cardwire](https://github.com/OpenGamingCollective/cardwire) (1 week ago) - A GPU Manager for linux that uses eBPF LSM hooks to block GPUs
 - [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) (2 weeks ago) - Any version of any nixpkgs package, from one flake input
-- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (2 weeks ago) - Voice-to-text with push-to-talk for Wayland compositors
+- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (3 weeks ago) - Voice-to-text with push-to-talk for Wayland compositors
 - [autobrr/netronome](https://github.com/autobrr/netronome) (1 month ago) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) (1 month ago) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
 
