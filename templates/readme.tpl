@@ -30,7 +30,3 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .StarredAt}}) - {{.Repo.Description}}
 {{- end}}
-
-<div>
-    <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tuxdotrs&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
-<div> 
