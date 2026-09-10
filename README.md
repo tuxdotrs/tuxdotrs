@@ -19,9 +19,9 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (today)
+- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (today)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (today)
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (2 days ago)
-- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (6 days ago)
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty (1 month ago)
 
 #### 🌱 My latest projects
