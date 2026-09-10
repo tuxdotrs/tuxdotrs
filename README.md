@@ -20,8 +20,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (today)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (today)
-- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (1 day ago)
-- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (5 days ago)
+- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (2 days ago)
+- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (6 days ago)
 - [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) - A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty (1 month ago)
 
 #### 🌱 My latest projects
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [fzakaria/trynix](https://github.com/fzakaria/trynix) (2 days ago) - Boot anything nixpkgs ever shipped, in your browser.
+- [fzakaria/trynix](https://github.com/fzakaria/trynix) (3 days ago) - Boot anything nixpkgs ever shipped, in your browser.
 - [OpenGamingCollective/cardwire](https://github.com/OpenGamingCollective/cardwire) (2 weeks ago) - A GPU Manager for linux that uses eBPF LSM hooks to block GPUs
 - [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) (3 weeks ago) - Any version of any nixpkgs package, from one flake input
-- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (3 weeks ago) - Voice-to-text with push-to-talk for Wayland compositors
+- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (4 weeks ago) - Voice-to-text with push-to-talk for Wayland compositors
 - [autobrr/netronome](https://github.com/autobrr/netronome) (1 month ago) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
