@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (1 day ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (today)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (5 days ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (6 days ago)
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (1 week ago)
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) (today) - Terminal UI OS (Terminal Multiplexer)
+- [coder/coder](https://github.com/coder/coder) (today) - Secure environments for developers and their agents
 - [fzakaria/trynix](https://github.com/fzakaria/trynix) (1 week ago) - Boot anything nixpkgs ever shipped, in your browser.
 - [OpenGamingCollective/cardwire](https://github.com/OpenGamingCollective/cardwire) (3 weeks ago) - A GPU Manager for linux that uses eBPF LSM hooks to block GPUs
 - [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) (4 weeks ago) - Any version of any nixpkgs package, from one flake input
-- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) (1 month ago) - Voice-to-text with push-to-talk for Wayland compositors
-- [autobrr/netronome](https://github.com/autobrr/netronome) (1 month ago) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
