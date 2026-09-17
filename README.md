@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (1 day ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (today)
 - [KernelSU-Next/webpage](https://github.com/KernelSU-Next/webpage) -  (1 day ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (6 days ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 week ago)
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [numtide/nix-auth](https://github.com/numtide/nix-auth) (today) - Nix access-token management tool
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) (1 day ago) - Terminal UI OS (Terminal Multiplexer)
 - [coder/coder](https://github.com/coder/coder) (1 day ago) - Secure environments for developers and their agents
 - [fzakaria/trynix](https://github.com/fzakaria/trynix) (1 week ago) - Boot anything nixpkgs ever shipped, in your browser.
 - [OpenGamingCollective/cardwire](https://github.com/OpenGamingCollective/cardwire) (3 weeks ago) - A GPU Manager for linux that uses eBPF LSM hooks to block GPUs
-- [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) (1 month ago) - Any version of any nixpkgs package, from one flake input
