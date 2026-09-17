@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [lanathlor/anonix](https://github.com/lanathlor/anonix) (today) - 
-- [numtide/nix-auth](https://github.com/numtide/nix-auth) (today) - Nix access-token management tool
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) (1 day ago) - Terminal UI OS (Terminal Multiplexer)
-- [coder/coder](https://github.com/coder/coder) (1 day ago) - Secure environments for developers and their agents
-- [fzakaria/trynix](https://github.com/fzakaria/trynix) (1 week ago) - Boot anything nixpkgs ever shipped, in your browser.
+- [Dyadnum/Dyadnum-Bot-Backend](https://github.com/Dyadnum/Dyadnum-Bot-Backend) (today) - 
+- [Dyadnum/Orderly-Backend](https://github.com/Dyadnum/Orderly-Backend) (today) - 
+- [Dyadnum/Dyadnum-Services](https://github.com/Dyadnum/Dyadnum-Services) (today) - 
+- [Dyadnum/Backend-Engine](https://github.com/Dyadnum/Backend-Engine) (today) - 
+- [totemapp-xyz/totemv2](https://github.com/totemapp-xyz/totemv2) (today) - 
