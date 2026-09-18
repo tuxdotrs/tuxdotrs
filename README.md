@@ -19,8 +19,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (today)
-- [KernelSU-Next/webpage](https://github.com/KernelSU-Next/webpage) -  (1 day ago)
-- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (6 days ago)
+- [KernelSU-Next/webpage](https://github.com/KernelSU-Next/webpage) -  (2 days ago)
+- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (1 week ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 week ago)
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (1 week ago)
 
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [Dyadnum/Dyadnum-Bot-Backend](https://github.com/Dyadnum/Dyadnum-Bot-Backend) (today) - 
-- [Dyadnum/Orderly-Backend](https://github.com/Dyadnum/Orderly-Backend) (today) - 
-- [Dyadnum/Dyadnum-Services](https://github.com/Dyadnum/Dyadnum-Services) (today) - 
-- [Dyadnum/Backend-Engine](https://github.com/Dyadnum/Backend-Engine) (today) - 
-- [totemapp-xyz/totemv2](https://github.com/totemapp-xyz/totemv2) (today) - 
+- [Dyadnum/Dyadnum-Bot-Backend](https://github.com/Dyadnum/Dyadnum-Bot-Backend) (1 day ago) - 
+- [Dyadnum/Orderly-Backend](https://github.com/Dyadnum/Orderly-Backend) (1 day ago) - 
+- [Dyadnum/Dyadnum-Services](https://github.com/Dyadnum/Dyadnum-Services) (1 day ago) - 
+- [Dyadnum/Backend-Engine](https://github.com/Dyadnum/Backend-Engine) (1 day ago) - 
+- [totemapp-xyz/totemv2](https://github.com/totemapp-xyz/totemv2) (1 day ago) - 
