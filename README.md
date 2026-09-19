@@ -19,18 +19,18 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (today)
+- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (today)
 - [KernelSU-Next/webpage](https://github.com/KernelSU-Next/webpage) -  (3 days ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (1 week ago)
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration (1 week ago)
-- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (1 week ago)
+- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My neovim configuration (1 week ago)
 
 #### 🌱 My latest projects
 
 - [tuxdotrs/android_kernel_motorola_sm7325](https://github.com/tuxdotrs/android_kernel_motorola_sm7325) - KernelSU-Next &#43; DroidSpaces Kernel for Motorola Edge 30 (LineageOS &amp; AOSP ROMs).
 - [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland
-- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My awesomeWM configuration
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My nvim configuration
+- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations
+- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My neovim configuration
 
 #### ⭐ Recent Stars
 
