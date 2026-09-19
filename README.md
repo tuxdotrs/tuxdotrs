@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (today) - ⌥ Coding agent with the IDE wired in
 - [Dyadnum/Dyadnum-Bot-Backend](https://github.com/Dyadnum/Dyadnum-Bot-Backend) (2 days ago) - 
 - [Dyadnum/Orderly-Backend](https://github.com/Dyadnum/Orderly-Backend) (2 days ago) - 
 - [Dyadnum/Dyadnum-Services](https://github.com/Dyadnum/Dyadnum-Services) (2 days ago) - 
 - [Dyadnum/Backend-Engine](https://github.com/Dyadnum/Backend-Engine) (2 days ago) - 
-- [totemapp-xyz/totemv2](https://github.com/totemapp-xyz/totemv2) (2 days ago) - 
