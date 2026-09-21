@@ -19,8 +19,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake. (today)
-- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (today)
-- [KernelSU-Next/webpage](https://github.com/KernelSU-Next/webpage) -  (4 days ago)
+- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (1 day ago)
+- [KernelSU-Next/webpage](https://github.com/KernelSU-Next/webpage) -  (5 days ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (1 week ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My neovim configuration (1 week ago)
 
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (1 day ago) - ⌥ Coding agent with the IDE wired in
-- [Dyadnum/Dyadnum-Bot-Backend](https://github.com/Dyadnum/Dyadnum-Bot-Backend) (3 days ago) - 
-- [Dyadnum/Orderly-Backend](https://github.com/Dyadnum/Orderly-Backend) (3 days ago) - 
-- [Dyadnum/Dyadnum-Services](https://github.com/Dyadnum/Dyadnum-Services) (3 days ago) - 
-- [Dyadnum/Backend-Engine](https://github.com/Dyadnum/Backend-Engine) (3 days ago) - 
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (2 days ago) - ⌥ Coding agent with the IDE wired in
+- [Dyadnum/Dyadnum-Bot-Backend](https://github.com/Dyadnum/Dyadnum-Bot-Backend) (4 days ago) - 
+- [Dyadnum/Orderly-Backend](https://github.com/Dyadnum/Orderly-Backend) (4 days ago) - 
+- [Dyadnum/Dyadnum-Services](https://github.com/Dyadnum/Dyadnum-Services) (4 days ago) - 
+- [Dyadnum/Backend-Engine](https://github.com/Dyadnum/Backend-Engine) (4 days ago) - 
