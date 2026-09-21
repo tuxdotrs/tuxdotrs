@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [agavra/tuicr](https://github.com/agavra/tuicr) (today) - a code review TUI with vim keybindings
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (2 days ago) - ⌥ Coding agent with the IDE wired in
 - [Dyadnum/Dyadnum-Bot-Backend](https://github.com/Dyadnum/Dyadnum-Bot-Backend) (4 days ago) - 
 - [Dyadnum/Orderly-Backend](https://github.com/Dyadnum/Orderly-Backend) (4 days ago) - 
 - [Dyadnum/Dyadnum-Services](https://github.com/Dyadnum/Dyadnum-Services) (4 days ago) - 
-- [Dyadnum/Backend-Engine](https://github.com/Dyadnum/Backend-Engine) (4 days ago) - 
