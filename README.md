@@ -19,8 +19,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (today)
-- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (1 day ago)
-- [KernelSU-Next/webpage](https://github.com/KernelSU-Next/webpage) -  (5 days ago)
+- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (2 days ago)
+- [KernelSU-Next/webpage](https://github.com/KernelSU-Next/webpage) -  (6 days ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (1 week ago)
 - [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My neovim configuration (1 week ago)
 
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [agavra/tuicr](https://github.com/agavra/tuicr) (today) - a code review TUI with vim keybindings
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (2 days ago) - ⌥ Coding agent with the IDE wired in
-- [Dyadnum/Dyadnum-Bot-Backend](https://github.com/Dyadnum/Dyadnum-Bot-Backend) (4 days ago) - 
-- [Dyadnum/Orderly-Backend](https://github.com/Dyadnum/Orderly-Backend) (4 days ago) - 
-- [Dyadnum/Dyadnum-Services](https://github.com/Dyadnum/Dyadnum-Services) (4 days ago) - 
+- [agavra/tuicr](https://github.com/agavra/tuicr) (1 day ago) - a code review TUI with vim keybindings
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (3 days ago) - ⌥ Coding agent with the IDE wired in
+- [Dyadnum/Dyadnum-Bot-Backend](https://github.com/Dyadnum/Dyadnum-Bot-Backend) (5 days ago) - 
+- [Dyadnum/Orderly-Backend](https://github.com/Dyadnum/Orderly-Backend) (5 days ago) - 
+- [Dyadnum/Dyadnum-Services](https://github.com/Dyadnum/Dyadnum-Services) (5 days ago) - 
