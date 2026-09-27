@@ -20,7 +20,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (today)
 - [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (today)
-- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily. (5 days ago)
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily. (6 days ago)
 - [KernelSU-Next/webpage](https://github.com/KernelSU-Next/webpage) -  (1 week ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (2 weeks ago)
 
@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [agavra/tuicr](https://github.com/agavra/tuicr) (5 days ago) - a code review TUI with vim keybindings
+- [agavra/tuicr](https://github.com/agavra/tuicr) (6 days ago) - a code review TUI with vim keybindings
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (1 week ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [Dyadnum/Dyadnum-Bot-Backend](https://github.com/Dyadnum/Dyadnum-Bot-Backend) (1 week ago) - 
 - [Dyadnum/Orderly-Backend](https://github.com/Dyadnum/Orderly-Backend) (1 week ago) - 
