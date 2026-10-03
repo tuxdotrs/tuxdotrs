@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (5 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (today)
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (5 days ago)
 - [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (6 days ago)
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily. (1 week ago)
