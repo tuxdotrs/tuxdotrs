@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (today) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [agavra/tuicr](https://github.com/agavra/tuicr) (1 week ago) - a code review TUI with vim keybindings
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (2 weeks ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [Dyadnum/Dyadnum-Bot-Backend](https://github.com/Dyadnum/Dyadnum-Bot-Backend) (2 weeks ago) - 
 - [Dyadnum/Orderly-Backend](https://github.com/Dyadnum/Orderly-Backend) (2 weeks ago) - 
-- [Dyadnum/Dyadnum-Services](https://github.com/Dyadnum/Dyadnum-Services) (2 weeks ago) - 
