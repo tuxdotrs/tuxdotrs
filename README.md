@@ -22,7 +22,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (2 weeks ago)
 - [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (2 weeks ago)
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily. (3 weeks ago)
-- [KernelSU-Next/webpage](https://github.com/KernelSU-Next/webpage) -  (4 weeks ago)
+- [KernelSU-Next/webpage](https://github.com/KernelSU-Next/webpage) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [bugswriter/jantar-mantar](https://github.com/bugswriter/jantar-mantar) (today) - 
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) (2 days ago) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [bugswriter/jantar-mantar](https://github.com/bugswriter/jantar-mantar) (1 day ago) - 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) (3 days ago) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (1 week ago) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [agavra/tuicr](https://github.com/agavra/tuicr) (3 weeks ago) - a code review TUI with vim keybindings
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (3 weeks ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
