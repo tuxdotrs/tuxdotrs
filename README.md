@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [stablyai/orca](https://github.com/stablyai/orca) (today) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [bugswriter/jantar-mantar](https://github.com/bugswriter/jantar-mantar) (2 days ago) - 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) (4 days ago) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (1 week ago) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [agavra/tuicr](https://github.com/agavra/tuicr) (3 weeks ago) - a code review TUI with vim keybindings
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) (4 weeks ago) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
