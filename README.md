@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [remorses/gpuix](https://github.com/remorses/gpuix) (today) - Node.js &amp; Bun bindings for Zed’s GPUI. Build memory efficient native apps with React or Solid.js
 - [oblien/openship](https://github.com/oblien/openship) (1 day ago) - Self-hosted deployment platform
 - [stablyai/orca](https://github.com/stablyai/orca) (3 days ago) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [bugswriter/jantar-mantar](https://github.com/bugswriter/jantar-mantar) (5 days ago) - 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) (1 week ago) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2 weeks ago) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
