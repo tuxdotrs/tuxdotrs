@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (3 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (4 days ago)
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (3 weeks ago)
 - [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (3 weeks ago)
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily. (4 weeks ago)
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [oblien/openship](https://github.com/oblien/openship) (today) - Self-hosted deployment platform
-- [stablyai/orca](https://github.com/stablyai/orca) (2 days ago) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-- [bugswriter/jantar-mantar](https://github.com/bugswriter/jantar-mantar) (4 days ago) - 
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) (6 days ago) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [oblien/openship](https://github.com/oblien/openship) (1 day ago) - Self-hosted deployment platform
+- [stablyai/orca](https://github.com/stablyai/orca) (3 days ago) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [bugswriter/jantar-mantar](https://github.com/bugswriter/jantar-mantar) (5 days ago) - 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) (1 week ago) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2 weeks ago) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
