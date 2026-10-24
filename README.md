@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (today)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (1 day ago)
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (3 weeks ago)
 - [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (3 weeks ago)
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily. (1 month ago)
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) (today) - Nix packages for AI coding agents and development tools. Automatically updated daily.
-- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) (2 days ago) - Development at the speed of light
-- [remorses/gpuix](https://github.com/remorses/gpuix) (3 days ago) - Node.js &amp; Bun bindings for Zed’s GPUI. Build memory efficient native apps with React or Solid.js
-- [oblien/openship](https://github.com/oblien/openship) (4 days ago) - Self-hosted deployment platform
-- [stablyai/orca](https://github.com/stablyai/orca) (6 days ago) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) (1 day ago) - Nix packages for AI coding agents and development tools. Automatically updated daily.
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) (3 days ago) - Development at the speed of light
+- [remorses/gpuix](https://github.com/remorses/gpuix) (4 days ago) - Node.js &amp; Bun bindings for Zed’s GPUI. Build memory efficient native apps with React or Solid.js
+- [oblien/openship](https://github.com/oblien/openship) (5 days ago) - Self-hosted deployment platform
+- [stablyai/orca](https://github.com/stablyai/orca) (1 week ago) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
