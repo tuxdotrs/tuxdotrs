@@ -18,19 +18,19 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
+- [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) -  (today)
+- [tuxdotrs/dubai-mainline-userspace](https://github.com/tuxdotrs/dubai-mainline-userspace) - dubai-mainline (Motorola Edge 30, SM7325): userspace (today)
+- [tuxdotrs/dubai-mainline-kernel](https://github.com/tuxdotrs/dubai-mainline-kernel) - dubai-mainline (Motorola Edge 30, SM7325): kernel (today)
+- [tuxdotrs/dubai-mainline-bootloader](https://github.com/tuxdotrs/dubai-mainline-bootloader) - dubai-mainline (Motorola Edge 30, SM7325): bootloader (today)
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (2 days ago)
-- [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple (3 weeks ago)
-- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (4 weeks ago)
-- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily. (1 month ago)
-- [KernelSU-Next/webpage](https://github.com/KernelSU-Next/webpage) -  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [tuxdotrs/dubai-mainline-bootloader](https://github.com/tuxdotrs/dubai-mainline-bootloader) - dubai-mainline (Motorola Edge 30, SM7325): bootloader
+- [tuxdotrs/dubai-mainline-userspace](https://github.com/tuxdotrs/dubai-mainline-userspace) - dubai-mainline (Motorola Edge 30, SM7325): userspace
+- [tuxdotrs/dubai-mainline-kernel](https://github.com/tuxdotrs/dubai-mainline-kernel) - dubai-mainline (Motorola Edge 30, SM7325): kernel
+- [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) - 
 - [tuxdotrs/android_kernel_motorola_sm7325](https://github.com/tuxdotrs/android_kernel_motorola_sm7325) - KernelSU-Next &#43; DroidSpaces Kernel for Motorola Edge 30 (LineageOS &amp; AOSP ROMs)
-- [tuxdotrs/highminded](https://github.com/tuxdotrs/highminded) - Undetectable AI that helps you with meetings
-- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland
-- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations
-- [tuxdotrs/tnvim](https://github.com/tuxdotrs/tnvim) - My neovim configuration
 
 #### ⭐ Recent Stars
 
