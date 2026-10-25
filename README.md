@@ -18,10 +18,10 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) -  (today)
 - [tuxdotrs/dubai-mainline-userspace](https://github.com/tuxdotrs/dubai-mainline-userspace) - dubai-mainline (Motorola Edge 30, SM7325): userspace (today)
-- [tuxdotrs/dubai-mainline-kernel](https://github.com/tuxdotrs/dubai-mainline-kernel) - dubai-mainline (Motorola Edge 30, SM7325): kernel (today)
 - [tuxdotrs/dubai-mainline-bootloader](https://github.com/tuxdotrs/dubai-mainline-bootloader) - dubai-mainline (Motorola Edge 30, SM7325): bootloader (today)
+- [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) -  (today)
+- [tuxdotrs/dubai-mainline-kernel](https://github.com/tuxdotrs/dubai-mainline-kernel) - dubai-mainline (Motorola Edge 30, SM7325): kernel (today)
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (2 days ago)
 
 #### 🌱 My latest projects
