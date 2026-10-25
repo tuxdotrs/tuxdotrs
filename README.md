@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [experientiallabs/experiential](https://github.com/experientiallabs/experiential) (today) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000&#43; marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.
 - [sc7280-mainline/linux](https://github.com/sc7280-mainline/linux) (1 day ago) - Mainline Kernel fork for SC7280/SM7325/QCM6490 devices
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) (2 days ago) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) (4 days ago) - Development at the speed of light
 - [remorses/gpuix](https://github.com/remorses/gpuix) (5 days ago) - Node.js &amp; Bun bindings for Zed’s GPUI. Build memory efficient native apps with React or Solid.js
-- [oblien/openship](https://github.com/oblien/openship) (6 days ago) - Self-hosted deployment platform
