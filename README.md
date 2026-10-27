@@ -18,18 +18,18 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
+- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (today)
 - [tuxdotrs/dubai-mainline-kernel](https://github.com/tuxdotrs/dubai-mainline-kernel) - dubai-mainline (Motorola Edge 30, SM7325): kernel (today)
-- [tuxdotrs/dubai-mainline-bootloader](https://github.com/tuxdotrs/dubai-mainline-bootloader) - dubai-mainline (Motorola Edge 30, SM7325): bootloader (today)
-- [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) -  (today)
+- [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) - Mainline Linux and NixOS on the Motorola Edge 30 (dubai, SM7325): kernel, userspace and bootloader (today)
 - [tuxdotrs/dubai-mainline-userspace](https://github.com/tuxdotrs/dubai-mainline-userspace) - dubai-mainline (Motorola Edge 30, SM7325): userspace (today)
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (4 days ago)
+- [tuxdotrs/dubai-mainline-bootloader](https://github.com/tuxdotrs/dubai-mainline-bootloader) - dubai-mainline (Motorola Edge 30, SM7325): bootloader (today)
 
 #### 🌱 My latest projects
 
 - [tuxdotrs/dubai-mainline-bootloader](https://github.com/tuxdotrs/dubai-mainline-bootloader) - dubai-mainline (Motorola Edge 30, SM7325): bootloader
 - [tuxdotrs/dubai-mainline-userspace](https://github.com/tuxdotrs/dubai-mainline-userspace) - dubai-mainline (Motorola Edge 30, SM7325): userspace
 - [tuxdotrs/dubai-mainline-kernel](https://github.com/tuxdotrs/dubai-mainline-kernel) - dubai-mainline (Motorola Edge 30, SM7325): kernel
-- [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) - 
+- [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) - Mainline Linux and NixOS on the Motorola Edge 30 (dubai, SM7325): kernel, userspace and bootloader
 - [tuxdotrs/android_kernel_motorola_sm7325](https://github.com/tuxdotrs/android_kernel_motorola_sm7325) - KernelSU-Next &#43; DroidSpaces Kernel for Motorola Edge 30 (LineageOS &amp; AOSP ROMs)
 
 #### ⭐ Recent Stars
