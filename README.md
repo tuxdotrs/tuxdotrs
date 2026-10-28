@@ -18,15 +18,15 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
+- [tuxdotrs/tdroid](https://github.com/tuxdotrs/tdroid) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher. (today)
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (today)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (today)
-- [tuxdotrs/tlauncher](https://github.com/tuxdotrs/tlauncher) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher. (today)
 - [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) - Mainline Linux and NixOS on the Motorola Edge 30 (dubai, SM7325): kernel, userspace and bootloader (1 day ago)
 - [tuxdotrs/dubai-mainline-userspace](https://github.com/tuxdotrs/dubai-mainline-userspace) - dubai-mainline (Motorola Edge 30, SM7325): userspace (1 day ago)
 
 #### 🌱 My latest projects
 
-- [tuxdotrs/tlauncher](https://github.com/tuxdotrs/tlauncher) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher.
+- [tuxdotrs/tdroid](https://github.com/tuxdotrs/tdroid) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher.
 - [tuxdotrs/dubai-mainline-bootloader](https://github.com/tuxdotrs/dubai-mainline-bootloader) - dubai-mainline (Motorola Edge 30, SM7325): bootloader
 - [tuxdotrs/dubai-mainline-userspace](https://github.com/tuxdotrs/dubai-mainline-userspace) - dubai-mainline (Motorola Edge 30, SM7325): userspace
 - [tuxdotrs/dubai-mainline-kernel](https://github.com/tuxdotrs/dubai-mainline-kernel) - dubai-mainline (Motorola Edge 30, SM7325): kernel
