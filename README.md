@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) (today) - Your Android phone and your Windows PC, working as one. Local-first, end-to-end encrypted, no account.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) (1 day ago) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [denialwm/denial](https://github.com/denialwm/denial) (6 days ago) -  A smooth, customizable Wayland compositor with glass effects, three window layouts, and settings you can actually click. We got a little carried away.
 - [experientiallabs/experiential](https://github.com/experientiallabs/experiential) (1 week ago) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000&#43; marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.
 - [sc7280-mainline/linux](https://github.com/sc7280-mainline/linux) (1 week ago) - Mainline Kernel fork for SC7280/SM7325/QCM6490 devices
-- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) (1 week ago) - Nix packages for AI coding agents and development tools. Automatically updated daily.
