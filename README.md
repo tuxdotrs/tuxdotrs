@@ -18,9 +18,9 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (2 days ago)
-- [tuxdotrs/tdroid](https://github.com/tuxdotrs/tdroid) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher. (5 days ago)
-- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (6 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (3 days ago)
+- [tuxdotrs/tdroid](https://github.com/tuxdotrs/tdroid) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher. (6 days ago)
+- [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (1 week ago)
 - [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) - Mainline Linux and NixOS on the Motorola Edge 30 (dubai, SM7325): kernel, userspace and bootloader (1 week ago)
 - [tuxdotrs/dubai-mainline-userspace](https://github.com/tuxdotrs/dubai-mainline-userspace) - dubai-mainline (Motorola Edge 30, SM7325): userspace (1 week ago)
 
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) (1 day ago) - Your Android phone and your Windows PC, working as one. Local-first, end-to-end encrypted, no account.
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) (2 days ago) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) (2 days ago) - Your Android phone and your Windows PC, working as one. Local-first, end-to-end encrypted, no account.
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) (3 days ago) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [denialwm/denial](https://github.com/denialwm/denial) (1 week ago) -  A smooth, customizable Wayland compositor with glass effects, three window layouts, and settings you can actually click. We got a little carried away.
 - [experientiallabs/experiential](https://github.com/experientiallabs/experiential) (1 week ago) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000&#43; marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.
 - [sc7280-mainline/linux](https://github.com/sc7280-mainline/linux) (1 week ago) - Mainline Kernel fork for SC7280/SM7325/QCM6490 devices
