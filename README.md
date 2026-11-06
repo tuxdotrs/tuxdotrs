@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [wmww/tawc](https://github.com/wmww/tawc) (today) - Run Linux programs on Android
-- [Niko1221/Strata](https://github.com/Niko1221/Strata) (1 day ago) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
-- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) (3 days ago) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) (4 days ago) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [wmww/tawc](https://github.com/wmww/tawc) (1 day ago) - Run Linux programs on Android
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) (2 days ago) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) (4 days ago) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) (5 days ago) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [denialwm/denial](https://github.com/denialwm/denial) (1 week ago) -  A smooth, customizable Wayland compositor with glass effects, three window layouts, and settings you can actually click. We got a little carried away.
