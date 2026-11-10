@@ -18,11 +18,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (2 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (3 days ago)
 - [tuxdotrs/tdroid](https://github.com/tuxdotrs/tdroid) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher. (1 week ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (1 week ago)
-- [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) - Mainline Linux and NixOS on the Motorola Edge 30 (dubai, SM7325): kernel, userspace and bootloader (1 week ago)
-- [tuxdotrs/dubai-mainline-userspace](https://github.com/tuxdotrs/dubai-mainline-userspace) - dubai-mainline (Motorola Edge 30, SM7325): userspace (1 week ago)
+- [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) - Mainline Linux and NixOS on the Motorola Edge 30 (dubai, SM7325): kernel, userspace and bootloader (2 weeks ago)
+- [tuxdotrs/dubai-mainline-userspace](https://github.com/tuxdotrs/dubai-mainline-userspace) - dubai-mainline (Motorola Edge 30, SM7325): userspace (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -34,8 +34,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [wmww/tawc](https://github.com/wmww/tawc) (4 days ago) - Run Linux programs on Android
-- [Niko1221/Strata](https://github.com/Niko1221/Strata) (5 days ago) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+- [wmww/tawc](https://github.com/wmww/tawc) (5 days ago) - Run Linux programs on Android
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) (6 days ago) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [thtbee/nectarlink](https://github.com/thtbee/nectarlink) (1 week ago) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) (1 week ago) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [denialwm/denial](https://github.com/denialwm/denial) (1 week ago) -  A smooth, customizable Wayland compositor with glass effects, three window layouts, and settings you can actually click. We got a little carried away.
+- [denialwm/denial](https://github.com/denialwm/denial) (2 weeks ago) -  A smooth, customizable Wayland compositor with glass effects, three window layouts, and settings you can actually click. We got a little carried away.
