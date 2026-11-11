@@ -19,10 +19,10 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (today)
+- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (today)
 - [tuxdotrs/tdroid](https://github.com/tuxdotrs/tdroid) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher. (1 week ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (2 weeks ago)
 - [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) - Mainline Linux and NixOS on the Motorola Edge 30 (dubai, SM7325): kernel, userspace and bootloader (2 weeks ago)
-- [tuxdotrs/dubai-mainline-userspace](https://github.com/tuxdotrs/dubai-mainline-userspace) - dubai-mainline (Motorola Edge 30, SM7325): userspace (2 weeks ago)
 
 #### 🌱 My latest projects
 
