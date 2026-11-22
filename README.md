@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (2 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (3 days ago)
 - [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (1 week ago)
 - [tuxdotrs/tdroid](https://github.com/tuxdotrs/tdroid) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher. (3 weeks ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (3 weeks ago)
