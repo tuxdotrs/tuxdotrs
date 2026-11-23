@@ -18,7 +18,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (3 days ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (4 days ago)
 - [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (1 week ago)
 - [tuxdotrs/tdroid](https://github.com/tuxdotrs/tdroid) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher. (3 weeks ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (3 weeks ago)
@@ -38,4 +38,4 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) (1 week ago) - A cross-platform, safe, pure-Rust graphics API.
 - [wmww/tawc](https://github.com/wmww/tawc) (2 weeks ago) - Run Linux programs on Android
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) (2 weeks ago) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
-- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) (2 weeks ago) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) (3 weeks ago) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
