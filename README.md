@@ -38,4 +38,4 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) (2 weeks ago) - A cross-platform, safe, pure-Rust graphics API.
 - [wmww/tawc](https://github.com/wmww/tawc) (3 weeks ago) - Run Linux programs on Android
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) (3 weeks ago) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) (3 weeks ago) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) (3 weeks ago) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
