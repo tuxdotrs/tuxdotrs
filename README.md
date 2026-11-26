@@ -18,11 +18,11 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 #### 👷 What am I working on:
 
 
-- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (today)
-- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (today)
-- [tuxdotrs/tdroid](https://github.com/tuxdotrs/tdroid) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher. (3 weeks ago)
+- [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (1 day ago)
+- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (1 day ago)
+- [tuxdotrs/tdroid](https://github.com/tuxdotrs/tdroid) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher. (4 weeks ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (4 weeks ago)
-- [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) - Mainline Linux and NixOS on the Motorola Edge 30 (dubai, SM7325): kernel, userspace and bootloader (4 weeks ago)
+- [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) - Mainline Linux and NixOS on the Motorola Edge 30 (dubai, SM7325): kernel, userspace and bootloader (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -36,6 +36,6 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 - [haiwen/seafile](https://github.com/haiwen/seafile) (2 weeks ago) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) (2 weeks ago) - A cross-platform, safe, pure-Rust graphics API.
-- [wmww/tawc](https://github.com/wmww/tawc) (2 weeks ago) - Run Linux programs on Android
+- [wmww/tawc](https://github.com/wmww/tawc) (3 weeks ago) - Run Linux programs on Android
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) (3 weeks ago) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
-- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) (3 weeks ago) - Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) (3 weeks ago) - A high-throughput and memory-efficient inference and serving engine for LLMs
