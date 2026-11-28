@@ -19,8 +19,8 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 
 - [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config) - My entire infrastructure in a nix flake (today)
-- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (2 days ago)
-- [tuxdotrs/tdroid](https://github.com/tuxdotrs/tdroid) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher. (4 weeks ago)
+- [tuxdotrs/twm](https://github.com/tuxdotrs/twm) - My wm/compositor configurations (3 days ago)
+- [tuxdotrs/tdroid](https://github.com/tuxdotrs/tdroid) - Android launcher with a Nix-on-Droid Linux system, Wayland terminal widgets and coding agents. Fork of omalauncher. (1 month ago)
 - [tuxdotrs/tshell](https://github.com/tuxdotrs/tshell) - My widgets for wayland (1 month ago)
 - [tuxdotrs/dubai-mainline](https://github.com/tuxdotrs/dubai-mainline) - Mainline Linux and NixOS on the Motorola Edge 30 (dubai, SM7325): kernel, userspace and bootloader (1 month ago)
 
@@ -34,7 +34,7 @@ My zen? A perfectly tuned ```flake.nix```, the click of a mechanical keyboard, a
 
 #### ⭐ Recent Stars
 
-- [manic-systems/tack](https://github.com/manic-systems/tack) (today) - a full-featured nix pinning system
+- [manic-systems/tack](https://github.com/manic-systems/tack) (1 day ago) - a full-featured nix pinning system
 - [haiwen/seafile](https://github.com/haiwen/seafile) (2 weeks ago) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) (2 weeks ago) - A cross-platform, safe, pure-Rust graphics API.
 - [wmww/tawc](https://github.com/wmww/tawc) (3 weeks ago) - Run Linux programs on Android
